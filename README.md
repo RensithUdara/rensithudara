@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=rensithudara&label=Profile%20views&color=0e75b6&style=flat" alt="rensithudara" />
 </p>
 
----
 
 ### 👨‍💻 About Me:
 - 🌱 Currently learning **Web and Mobile Application Development** using **Flutter**, **React**, and **Node.js**.
@@ -15,7 +14,7 @@
 - 📄 Check my professional experience: [LinkedIn Profile](https://linkedin.com/in/rensith-udara-gonalagoda)
 - ⚡ Fun Fact: **I love solving complex coding problems, exploring new technologies, and participating in hackathons.**
 
----
+ 
 
 ### 🌐 Connect with Me:
 <p align="left">
@@ -27,7 +26,7 @@
   </a>
 </p>
 
----
+ 
 
 ### 🛠️ Skills & Technologies:
 I specialize in building **high-performance web and mobile applications**. Here are some of the technologies I use:
@@ -55,7 +54,7 @@ I specialize in building **high-performance web and mobile applications**. Here 
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /></a>
 </p>
 
----
+ 
 
 ### 📊 GitHub Stats:
 
@@ -74,7 +73,7 @@ I specialize in building **high-performance web and mobile applications**. Here 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rensithudara&theme=algolia" alt="GitHub Streak" />
 </p>
 
----
+ 
 
 ### 🎯 My Goals for 2024:
 - **Master** Flutter & Dart for building efficient cross-platform mobile apps.
@@ -83,12 +82,12 @@ I specialize in building **high-performance web and mobile applications**. Here 
 - **Write** at least 1 tech article per month to improve my technical writing and share knowledge.
 - **Participate** in coding challenges and hackathons to push my limits and learn new things.
 
----
+ 
 
 ### 📎 Other Links:
 - [My Portfolio](https://rensithudara.github.io/portfolio/)
 
----
+ 
 
 ### 🚀 Let’s Build Something Amazing Together!
 Feel free to reach out if you're interested in collaborating on tech projects or just want to chat about the future of software development. 😄
