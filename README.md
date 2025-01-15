@@ -63,7 +63,7 @@ I specialize in building **high-performance web and mobile applications**. Here 
 
 #### **GitHub Streak**
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rensithudara&theme=algolia" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rensithudara&theme=algolia" alt="GitHub Streak" />
 </p>
 
 ### 🎯 My Goals for 2025:
