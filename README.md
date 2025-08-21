@@ -2,7 +2,36 @@
   
 # 🚀 Rensith Udara Gonalagoda
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%7C+Mobile+App+Specialist;Building+Tomorrow's+Digital+Solutions;Open+Source+Enthusiast+%26+Tech+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&du## 🤝 Let's Build Something Amazing!
+
+<div align="center">
+
+### 💡 Open for Collaboration
+I'm always excited to work on innovative projects that make a real impact. Whether it's:
+
+🌟 **Open Source Projects** • 📱 **Mobile Applications** • 🌐 **Web Development** • 🤖 **AI Integration**
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br><br>
+
+**"Code is poetry written in logic."** ✨
+
+<br>
+
+<div align="center">
+  <a href="mailto:rensithudaragonalagoda@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect!-Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Send Email" />
+  </a>
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+
+</div>n=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%7C+Mobile+App+Specialist;Building+Tomorrow's+Digital+Solutions;Open+Source+Enthusiast+%26+Tech+Innovator)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rensithudara&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
