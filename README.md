@@ -47,55 +47,97 @@ Passion: Creating Digital Solutions That Matter
 
 </div>
 
-### 🛠️ Skills & Technologies:
-I specialize in building **high-performance web and mobile applications**. Here are some of the technologies I use:
+## 🛠️ Tech Stack & Skills
 
-#### **Languages & Frameworks:**
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" /></a>
-  <a href="https://flutter.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" /></a>
-</p>
+<div align="center">
 
-#### **Backend & Databases:**
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" /></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /></a>
-</p>
+### 💻 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-### 📊 GitHub Stats:
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-#### **Top Languages**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rensithudara&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&color=FFFFFF" alt="Top Languages" />
-</p>
+### 🔧 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-#### **Overall Stats**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rensithudara&theme=tokyonight&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### 🎯 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### **GitHub Streak**
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rensithudara&theme=algolia" alt="GitHub Streak" /></a>
+### 🔨 Tools & Others
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🎯 My Goals for 2025:
-- **Master** Flutter & Dart for building efficient cross-platform mobile apps.
-- **Contribute** to more open-source projects and strengthen my community presence.
-- **Develop** full-stack applications with React, Node.js, and MongoDB, incorporating AI features.
-- **Write** at least 2 tech articles per month to improve my technical writing and share knowledge.
-- **Participate** in global hackathons and coding challenges to gain more exposure and expertise.
-- **Expand** my portfolio with impactful projects that solve real-world problems.
-- **Engage** more in tech communities and mentor aspiring developers.
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rensithudara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=rensithudara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rensithudara&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rensithudara&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 2025 Roadmap & Goals
+
+<div align="center">
+
+```mermaid
+gantt
+    title My 2025 Development Journey
+    dateFormat  YYYY-MM-DD
+    section Learning
+    Master Flutter & Dart     :2025-01-01, 2025-12-31
+    Advanced React & Node.js  :2025-01-01, 2025-06-30
+    AI Integration Projects   :2025-07-01, 2025-12-31
+    
+    section Contribution
+    Open Source Projects      :2025-01-01, 2025-12-31
+    Tech Articles (2/month)   :2025-01-01, 2025-12-31
+    Community Mentoring       :2025-06-01, 2025-12-31
+    
+    section Achievement
+    Global Hackathons         :2025-03-01, 2025-11-30
+    Portfolio Expansion       :2025-01-01, 2025-12-31
+    Professional Networking   :2025-01-01, 2025-12-31
+```
+
+</div>
+
+### 🏆 Key Objectives
+
+| 🎯 Goal | 📅 Timeline | 📈 Progress |
+|---------|-------------|-------------|
+| **Master Flutter & Dart** | Jan - Dec 2025 | ![Progress](https://img.shields.io/badge/Progress-25%25-yellow) |
+| **Open Source Contributions** | Ongoing | ![Progress](https://img.shields.io/badge/Progress-Active-green) |
+| **Full-Stack Projects with AI** | Jul - Dec 2025 | ![Progress](https://img.shields.io/badge/Progress-Planning-orange) |
+| **Tech Articles (24 total)** | 2 per month | ![Progress](https://img.shields.io/badge/Progress-16%2F24-blue) |
+| **Global Hackathons** | Mar - Nov 2025 | ![Progress](https://img.shields.io/badge/Progress-Upcoming-purple) |
+| **Portfolio Enhancement** | Ongoing | ![Progress](https://img.shields.io/badge/Progress-50%25-yellow) |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📎 Other Links:
 - [My Portfolio](https://rensithudara.github.io/portfolio/)
