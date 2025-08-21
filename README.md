@@ -1,27 +1,51 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Rensith+Udara+Gonalagoda;OUSL+-+Open+University+of+Sri+Lanka;Bachelor+of+Software+Engineering+Honors+Degree)](https://git.io/typing-svg)
+<div align="center">
+  
+# 🚀 Rensith Udara Gonalagoda
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%7C+Mobile+App+Specialist;Building+Tomorrow's+Digital+Solutions;Open+Source+Enthusiast+%26+Tech+Innovator)](https://git.io/typing-svg)
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rensithudara&label=Profile%20views&color=0e75b6&style=flat" alt="rensithudara" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rensithudara&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rensithudara?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58A6FF?style=for-the-badge" alt="Focus" />
+</div>
 
-### 👨‍💻 About Me:
-- 🌱 Currently learning **Web and Mobile Application Development** using **Flutter**, **React**, and **Node.js**.
-- 👯 Looking to collaborate on **open-source projects**, **full-stack web development**, and **mobile app development**.
-- 📝 I regularly write articles on **software engineering**, **tech trends**, and **coding best practices**.
-- 💬 Ask me about **mobile app development, full-stack web development, Flutter, React, AI in tech**, and **programming challenges**.
-- 📫 Reach out to me: [rensithudaragonalagoda@gmail.com](mailto:rensithudaragonalagoda@gmail.com)
-- 📄 Check my professional experience: [LinkedIn Profile](https://linkedin.com/in/rensith-udara-gonalagoda)
-- ⚡ Fun Fact: **I love solving complex coding problems, exploring new technologies, and participating in hackathons.**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/rensith-udara-gonalagoda" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rensith Udara LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rensithh.h/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rensith Udara Instagram" height="30" width="40" />
-  </a>
-</p>
+</div>
+
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```yaml
+Name: Rensith Udara Gonalagoda
+Education: Bachelor of Software Engineering (Honors) - OUSL
+Location: Sri Lanka �🇰
+Status: Open for Opportunities
+Passion: Creating Digital Solutions That Matter
+```
+
+🌟 **Currently Learning:** Advanced Web & Mobile Development with Flutter, React & Node.js  
+🤝 **Open to Collaborate:** Full-stack projects, Mobile apps & Open-source contributions  
+✍️ **Tech Writer:** Sharing knowledge on software engineering & coding best practices  
+� **Ask me about:** Flutter, React, Node.js, Full-stack development & Mobile app architecture  
+� **Contact:** [rensithudaragonalagoda@gmail.com](mailto:rensithudaragonalagoda@gmail.com)  
+� **LinkedIn:** [Connect with me](https://linkedin.com/in/rensith-udara-gonalagoda)  
+⚡ **Fun Fact:** I turn coffee into code and love solving complex problems! ☕→💻
+
+<br clear="right"/>
+
+## 🌐 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rensith-udara-gonalagoda)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rensithh.h/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rensithudara.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rensithudaragonalagoda@gmail.com)
+
+</div>
 
 ### 🛠️ Skills & Technologies:
 I specialize in building **high-performance web and mobile applications**. Here are some of the technologies I use:
