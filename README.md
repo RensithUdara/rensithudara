@@ -62,7 +62,7 @@ I specialize in building **high-performance web and mobile applications**. Here 
 </p>
 
 #### **GitHub Streak**
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rensithudara&theme=algolia" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="[https://streak-stats.demolab.com?user=rensithudara&theme=algolia](https://nirzak-streak-stats.vercel.app?user=rensithudara&theme=algolia)" alt="GitHub Streak" /></a>
 
 ### 🎯 My Goals for 2025:
 - **Master** Flutter & Dart for building efficient cross-platform mobile apps.
