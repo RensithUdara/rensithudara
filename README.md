@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Rensith+Udara+Gonalagoda;OUSL+-+Open+University+of+Sri+Lanka;Bachelor+of+Software+Engineering+Honors+Degree)](https://git.io/typing-svg)
 
-<p align="left"> 
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=rensithudara&label=Profile%20views&color=0e75b6&style=flat" alt="rensithudara" />
-</p>
+  <img src="https://img.shields.io/github/followers/rensithudara?label=Followers&style=social" alt="GitHub followers" />
+</div>
 
 ### 👨‍💻 About Me:
 - 🌱 Currently learning **Web and Mobile Application Development** using **Flutter**, **React**, and **Node.js**.
