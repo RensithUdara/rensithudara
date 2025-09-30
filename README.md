@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/github/followers/rensithudara?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/RensithUdara.svg)](https://user-badge.committers.top/sri_lanka/RensithUdara)
+
 ### 👨‍💻 About Me:
 - 🌱 Currently learning **Web and Mobile Application Development** using **Flutter**, **React**, and **Node.js**.
 - 👯 Looking to collaborate on **open-source projects**, **full-stack web development**, and **mobile app development**.
