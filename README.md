@@ -67,6 +67,11 @@ I specialize in building **high-performance web and mobile applications**. Here 
 #### **GitHub Streak**
 <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=RensithUdara&theme=algolia" alt="GitHub Streak" /></a>
 
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=rensithudara&theme=algolia" alt="GitHub Trophies" />
+</p>
+
 ### 🎯 My Goals for 2025:
 - **Master** Flutter & Dart for building efficient cross-platform mobile apps.
 - **Contribute** to more open-source projects and strengthen my community presence.
