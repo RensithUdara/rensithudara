@@ -70,14 +70,15 @@ I specialize in building **high-performance web and mobile applications**. Here 
   <img src="https://github-profile-trophy.vercel.app/?username=rensithudara&theme=algolia" alt="GitHub Trophies" />
 </p>
 
-### 🎯 My Goals for 2025:
-- **Master** Flutter & Dart for building efficient cross-platform mobile apps.
-- **Contribute** to more open-source projects and strengthen my community presence.
-- **Develop** full-stack applications with React, Node.js, and MongoDB, incorporating AI features.
-- **Write** at least 2 tech articles per month to improve my technical writing and share knowledge.
-- **Participate** in global hackathons and coding challenges to gain more exposure and expertise.
-- **Expand** my portfolio with impactful projects that solve real-world problems.
-- **Engage** more in tech communities and mentor aspiring developers.
+### 🎯 My Goals for 2026:
+- **Advance** expertise in Flutter & Dart with real production apps
+- **Launch** at least 2 full-stack apps using React + Node.js + MongoDB + AI integrations
+- **Contribute** to open-source consistently and build presence in tech communities
+- **Publish** technical articles/tutorials to improve communication & knowledge sharing
+- **Participate** in hackathons & coding competitions for practical growth
+- **Build** impactful and scalable portfolio projects
+- **Explore** AI-assisted development, DevOps & Cloud technologies
+- **Mentor** or help aspiring developers and expand my professional network
 
 ### 📎 Other Links:
 - [My Portfolio](https://rensithudara.github.io/portfolio/)
