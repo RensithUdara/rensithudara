@@ -69,7 +69,7 @@ I specialize in building **high-performance web and mobile applications**. Here 
 
 ### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=rensithudara&theme=algolia" alt="GitHub Trophies" />
+  <img src="  <img src="[https://github-profile-trophy.vercel.app/?username=rensithudara&theme=algolia](https://github-trophies.vercel.app/?username=rensithudara&theme=algolia)" alt="GitHub Trophies" />" alt="GitHub Trophies" />
 </p>
 
 ### 🎯 My Goals for 2026:
