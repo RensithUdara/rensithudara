@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Rensith+Udara+Gonalagoda;OUSL+-+Open+University+of+Sri+Lanka;Bachelor+of+Software+Engineering+Honors+Degree)](https://git.io/typing-svg)
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=rensithudara&label=Profile%20views&color=0e75b6&style=flat" alt="rensithudara" />
-  <img src="https://img.shields.io/github/followers/rensithudara?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=rensithudara&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/rensithudara?label=Followers&style=social" />
 </div>
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/RensithUdara.svg)](https://user-badge.committers.top/sri_lanka/RensithUdara)
@@ -18,58 +18,79 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/rensith-udara-gonalagoda" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rensith Udara LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/rensith-udara-gonalagoda" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" hspace="12" style="margin-right:12px;" />
   </a>
-  <a href="https://instagram.com/rensithh.h/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rensith Udara Instagram" height="30" width="40" />
+  <a href="https://instagram.com/rensithh.h/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" hspace="12" style="margin-right:12px;" />
   </a>
 </p>
 
 ### 🛠️ Skills & Technologies:
-I specialize in building **high-performance web and mobile applications**. Here are some of the technologies I use:
+I specialize in building **high-performance web and mobile applications** using modern tools and frameworks.
 
-#### **Languages & Frameworks:**
+#### 🚀 Frontend Development
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" /></a>
-  <a href="https://flutter.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" hspace="15" style="margin-right:15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" hspace="15" style="margin-right:15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" hspace="15" style="margin-right:15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" hspace="15" style="margin-right:15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45"/>
 </p>
 
-#### **Backend & Databases:**
+#### 📱 Mobile Development
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" /></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /></a>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45" hspace="15" style="margin-right:15px;"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="45" hspace="15" style="margin-right:15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/>
+</p>
+
+#### ⚙️ Backend Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" hspace="15" style="margin-right:15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" hspace="15" style="margin-right:15px;"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/>
+</p>
+
+#### 🧠 Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" hspace="15" style="margin-right:15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+</p>
+
+#### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" hspace="15" style="margin-right:15px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="45" hspace="15" style="margin-right:15px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="45" hspace="15" style="margin-right:15px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="45"/>
 </p>
 
 ### 📊 GitHub Stats:
 
 #### **Top Languages**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rensithudara&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rensithudara&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&color=FFFFFF" />
 </p>
 
 #### **Overall Stats**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rensithudara&theme=tokyonight&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rensithudara&theme=tokyonight&show_icons=true&locale=en" />
 </p>
 
 #### **GitHub Streak**
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RensithUdara&theme=algolia" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RensithUdara&theme=algolia" />
+</a>
 
 ### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-trophies.vercel.app/?username=rensithudara&theme=algolia" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=rensithudara&theme=algolia" />
 </p>
 
 ### 🎯 My Goals for 2026:
