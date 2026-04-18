@@ -85,7 +85,7 @@ I specialize in building **high-performance web and mobile applications** using 
 
 #### **GitHub Streak**
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RensithUdara&theme=algolia" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=RensithUdara&theme=algolia](https://github-readme-streak-stats.herokuapp.com/?user=RensithUdara&theme=algolia)" />
 </a>
 
 ### 🏆 GitHub Trophies
