@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/followers/rensithudara?label=Followers&style=social" />
 </div>
 
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/RensithUdara.svg)](https://user-badge.committers.top/sri_lanka/RensithUdara)
+[![Committers Top Rank Badge](https://img.shields.io/badge/Committers%20Top%20Rank-Sri%20Lanka%20%232%20(public%20commits)-c0c0c0?style=flat&logo=github&logoColor=white&labelColor=111827&color=c0c0c0)](https://github-commiters-top-rank.vercel.app/sri_lanka?user=RensithUdara)
 
 ### 👨‍💻 About Me:
 - 🌱 Currently learning **Web and Mobile Application Development** using **Flutter**, **React**, and **Node.js**.
