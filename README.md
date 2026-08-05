@@ -75,13 +75,11 @@ I specialize in building **high-performance web and mobile applications** using 
 
 #### **Top Languages**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rensithudara&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&color=FFFFFF" />
-</p>
+<img src="https://github-readme-stats-studio.vercel.app/api/top-langs?theme=onedark&title_color=61afef&text_color=abb2bf&icon_color=98c379&bg_color=282c34&border_color=3e4451&border_radius=8&username=RensithUdara&layout=compact&langs_count=6" alt="Languages" /></p>
 
 #### **Overall Stats**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rensithudara&theme=tokyonight&show_icons=true&locale=en" />
-</p>
+<img src="https://github-readme-stats-studio.vercel.app/api/?theme=onedark&title_color=61afef&text_color=abb2bf&icon_color=98c379&bg_color=282c34&border_color=3e4451&border_radius=8&username=RensithUdara&show_icons=true&rank_icon=default" alt="Stats" /></p>
 
 #### **GitHub Streak**
 <a href="[https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=RensithUdara&theme=algolia)">
